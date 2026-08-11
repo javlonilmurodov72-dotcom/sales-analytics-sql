@@ -33,4 +33,4 @@ DIVIDE(SalesDifference, SalesLY, 0)
 * **Data Visualization:** Designed a premium, modern dark blue theme interface featuring rounded corners, subtle shadows, dynamic year slicing, and a chronological monthly sales trend chart.
 
 ### 📸 Dashboard Preview
-![Sales Performance Dashboard](images/dashboard.png)
+![Sales Performance Dashboard](images/dashboard.jpg)
